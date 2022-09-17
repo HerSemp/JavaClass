@@ -20,5 +20,12 @@ public class Courses implements Scholarship{
 
     }
 
-
+    @Override
+    public String toString() {
+        return
+                 CourseTitle +
+                "\t\t" + fee +
+                " \t\t" + offline +
+                "\t\t" + online;
+    }
 }

@@ -1,9 +1,9 @@
 package edoxi;
 
-public class Institute {
+public class Edoxi_Inst {
     private static final String CEO = "Sharif";
 
-    public Institute(){
+    public Edoxi_Inst(){
 
     }
 
@@ -32,16 +32,24 @@ public class Institute {
         acc1.StaffName = "Fawaz";
 
         //Printing Course Content
-        System.out.println("Edoxi Training Institute");
-        System.out.println("Edoxi Training Institute CEO "+ CEO);
+        System.out.println("Edoxi Training Edoxi_Inst");
+        System.out.println("Edoxi Training Edoxi_Inst CEO "+ CEO);
         System.out.println("Course Structure");
         System.out.println("Course Name\t\tFee\t\tOffline\t\tScholarship\t\tInstructor");
+        System.out.println(android);
+        System.out.println(android1);
+        System.out.println(android2);
+        System.out.println(android3);
+        System.out.println(android4);
+        System.out.println(android5);
+        /**
         System.out.println(android.CourseTitle+"\t\t" + android.fee+"\t"+android.offline+"\t\t"+android.scholarship()+"\t\t"+hemanth.StaffName);
         System.out.println(android1.CourseTitle+"\t\t" + android1.fee+"\t"+android1.offline+"\t\t"+android1.scholarship()+"\t\t"+hemanth.StaffName);
         System.out.println(android2.CourseTitle+"\t\t" + android2.fee+"\t"+android2.offline+"\t\t"+android2.scholarship()+"\t\t"+jon.StaffName);
         System.out.println(android3.CourseTitle+"\t\t" + android3.fee+"\t"+android3.offline+"\t\t"+android3.scholarship()+"\t\t"+gaurav.StaffName);
         System.out.println(android4.CourseTitle+"\t\t" + android4.fee+"\t"+android4.offline+"\t\t"+android4.scholarship()+"\t\t"+hemanth.StaffName);
         System.out.println(android5.CourseTitle+"\t\t" + android5.fee+"\t"+android5.offline+"\t\t"+android5.scholarship()+"\t\t"+jon.StaffName);
+         */
 
 
         System.out.println("\n\n");

@@ -14,4 +14,6 @@ public class AdminStaff extends Staff{
         first.StaffName = "Abhilash";
         first.Salary = 1200;
     }
+
+
 }
