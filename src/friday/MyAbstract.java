@@ -4,7 +4,7 @@ package friday;
 public abstract class MyAbstract {
 
     public MyAbstract() {
-    // git testing
+    // git testing again
     }
 
     abstract int value(int a, int b);
