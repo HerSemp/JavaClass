@@ -6,7 +6,7 @@ public class Multiple implements MyInt,MyInt2{
 
     }
     public static void main(String[] args){
-        // Creating object and printingss
+        // Creating object and printing
         Multiple mi = new Multiple();
         double result1 = mi.add(12.8, 2.0);
         double result2 = mi.sub(result1,1);
