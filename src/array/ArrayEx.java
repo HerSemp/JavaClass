@@ -49,6 +49,6 @@ public class ArrayEx {
         for (int i = 0; i < 10; i++) {
             names.add("Name"+i);
         }
-        System.out.println(names.stream().findFirst());
+        System.out.println(names.stream().count());
     }
 }
