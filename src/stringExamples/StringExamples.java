@@ -20,5 +20,10 @@ public class StringExamples {
         b.append(s);
         System.out.println(b);
 
+        StringBuilder c = new StringBuilder();
+        c.append("adda");
+        System.out.println(c.reverse());
+        System.out.println(c);
+
     }
 }
